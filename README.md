@@ -24,7 +24,7 @@ Sentiment Analysis is to build machine learning models that can determine the to
 | Number of Epochs | 2     |
 
 - ### Model & Results:
-**[AraBERT](https://github.com/UBC-NLP/marbert)**  is a large scale pre-training masked language model focused on both Dialectal Arabic (DA) and MSA. Arabic has multiple varieties (MarBERT use the same network architecture as AraBERT (BERT-base), but without the next sentence prediction NSP). The pre-training was done with a max sentence length of 64 only for 2 epoch. we got the following results in the table bellow
+**[MarBERT](https://github.com/UBC-NLP/marbert)**  is a large scale pre-training masked language model focused on both Dialectal Arabic (DA) and MSA. Arabic has multiple varieties (MarBERT use the same network architecture as AraBERT (BERT-base), but without the next sentence prediction NSP). The pre-training was done with a max sentence length of 64 only for 2 epoch. we got the following results in the table bellow
 
 | Datasets  | **Accuracy** |
 | --------- | ------------ |
